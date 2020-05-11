@@ -1,2 +1,3 @@
 # sd
-sd try 1
+Senior design project app for auto taring scale
+
